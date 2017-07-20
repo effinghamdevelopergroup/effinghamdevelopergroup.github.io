@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome"
+date:   2017-07-19 22:31:43 -0500
+categories: news
+---
+
+Welcome, to the new meet up for Software Developers in the Effingham, Illinois 
+area. Please bear with us we are working on getting everything together and plan
+our first meet up. We are in the process of setting the first Meet up. We will
+add it Meetup as soon as details are confirmed We will be updating the site in
+the coming days with more information, soon.
+
+In the mean time please join us on [Meetup](https://www.meetup.com/Effingham-Area-Software-Development-Group/).
